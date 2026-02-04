@@ -21,8 +21,13 @@
 
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTEgMkgxM1Y2SDExVjJaTTIgMTFIMlYxM0g2VjExSDJaTTExIDExSDExVjEzSDEzVjExSDExWk0xOCAxMUgxOFYxM0gyMlYxMUgxOFpNMTEgMThIMTNWMjJIMTFWMThaTTIgMThINlYyMkgydjQtNFpNMTggMThIMjJWMjJIMThWMThaIi8+PC9zdmc+)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
+
+
+
+
 
 ---
 
